@@ -69,8 +69,5 @@ Segments:
 - **Segment sizes** are calculated automatically.
 - Handles invalid input and out-of-bounds accesses gracefully.
 
-## Credits
-Developed by [Your Name] as a professional/portfolio project for IT associate roles.
-
 ---
 **Showcase your understanding of OS memory management with this project!** 
